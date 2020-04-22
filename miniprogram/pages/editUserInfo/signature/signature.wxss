@@ -1,0 +1,4 @@
+/* pages/editUserInfo/signature/signature.wxss */
+input{
+  border: 1px #bfbfbf solid;
+}

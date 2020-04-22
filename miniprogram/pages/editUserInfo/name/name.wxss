@@ -1,0 +1,4 @@
+/* pages/editUserInfo/name/name.wxss */
+input{
+  border: 1px #bfbfbf solid;
+}
